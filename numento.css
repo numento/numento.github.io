@@ -1,0 +1,410 @@
+<!--
+
+
+.imgcache {
+width:0px;
+height:0px;
+}
+
+.main-banner {
+text-align:center;
+padding:0px;
+width:100%;
+height:42px;
+background-color:#000000;
+background-image:url(bg_black.png);
+}
+
+.main-banner-img{
+position:relative;
+top:11px;
+border:0px;
+}
+
+
+.div-table{
+display:table;
+width:100%;
+}
+
+
+.title-collection{
+text-align:center;
+display: table-cell;
+vertical-align:middle;
+font-size:13px;
+color:#ffffff;
+padding:0px;
+width:100%;
+height:24px;
+background-color:#cccccc;
+background-image:url(bg-title-grey.png);
+
+border-color:#555555;
+border-width:1px;
+border-style:none;
+border-bottom-style:solid;
+}
+
+
+.collection-entry-table{
+
+
+padding:0px;
+padding:0px;
+width:100%;
+height:58px;
+background-image:url(bg-entry-blue.png);
+cursor:pointer;cursor:hand;
+
+border-color:#555555;
+border-width:1px;
+border-style:none;
+border-bottom-style:solid;
+}
+
+.collection-entry-table:hover 
+{
+	background-image:url(bg-entry-green.png);
+}
+
+.collection-entry{
+text-align:center;
+
+vertical-align:middle;
+font-size:14px;
+font-weight:bold;
+color:#ffffff;
+
+margin:0px;
+padding:0px;
+width:100%;
+height:100%;
+}
+
+.collection-entry-arrow{
+text-align:center;
+/*
+display: table-cell;
+*/
+vertical-align:middle;
+padding:0px;
+height:100%;
+
+}
+
+
+
+.header-title-table{
+display: table;
+
+padding:0px;
+width:100%;
+height:39px;
+background-image:url(bg_blue.png);
+cursor:pointer;cursor:hand;
+
+border-color:#555555;
+border-width:1px;
+border-style:none;
+border-bottom-style:solid;
+}
+
+.header-title-table:hover 
+{
+	background-image:url(bg_green.png);
+}
+
+.header-title-cell{
+text-align:center;
+display: table-cell;
+vertical-align:middle;
+font-size:16px;
+font-weight:normal;
+color:#ffffff;
+padding:0px;
+padding-right:20px;
+width:100%;
+height:100%;
+}
+
+.header-title-arrow{
+text-align:center;
+display: table-cell;
+vertical-align:middle;
+padding:0px;
+height:100%;
+
+}
+
+
+
+.zone-content-results {
+padding-left:6px;padding-top:6px;padding-right:6px;padding-bottom:0px;
+}
+
+
+.table-result {
+
+width: 100%;
+
+cursor:pointer;cursor:hand;
+margin-left:0px;margin-top:0px;margin-right:0px;margin-bottom:6px;
+
+background-image:url(bg_blue2.png);
+
+-webkit-border-radius:.6em;
+-moz-border-radius:.6em;
+-border-radius:.6em;
+border-collapse: collapse;
+
+}
+.table-result:hover {
+background-image:url(bg_green2.png);
+
+-webkit-border-radius:.6em;
+-moz-border-radius:.6em;
+-border-radius:.6em;
+}
+
+.table-result-inner {
+border-collapse: collapse;
+width: 100%;
+height:100%;
+margin-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;
+background-color: #ffffff ;
+
+
+border-color:#9a9a9a;
+border-style:solid;
+border-width:1px;
+}
+
+td{
+	padding: 0px;
+}
+/*
+.td-cell-result-zone1 
+{
+height:100%;
+padding: 0px;
+
+}
+*/
+.cell-result-loading {
+height:80px;
+padding: 0px;
+
+text-align: center;
+background-color: rgba(255, 255, 255, 0.8); ;
+
+-webkit-border-radius:.6em;
+-moz-border-radius:.6em;
+-border-radius:.6em;
+
+border-color:#9a9a9a;
+border-style:solid;
+border-width:1px;
+
+margin-bottom:6px;
+
+}
+
+
+.cell-result-zone1 {
+height:80px;
+padding-top: 0px;
+padding-left: 0px;
+text-align: center;
+background-color: #ffffff;
+
+-webkit-border-top-left-radius:.6em;
+-moz-border-radius-topleft:.6em;
+-border-top-left-radius:.6em;
+
+-webkit-border-bottom-left-radius:.6em;
+-moz-border-radius-bottomleft:.6em;
+-border-bottom-left-radius:.6em;
+
+
+border-color:#9a9a9a;
+border-style:solid;
+border-width:1px;
+}
+
+
+.td-cell-result-zone2{
+height:100%;
+width: 30px;
+padding: 0px;
+
+
+}
+
+/*
+.cell-result-zone2 {
+height:80px;
+width: 100%;
+padding: 0px;
+
+text-align: center;
+
+
+-webkit-border-top-right-radius:.6em;
+-moz-border-radius-topright:.6em;
+-border-top-right-radius:.6em;
+
+-webkit-border-bottom-right-radius:.6em;
+-moz-border-radius-bottomright:.6em;
+-border-bottom-right-radius:.6em;
+
+border-color:#9a9a9a;
+border-style:solid;
+border-width:1px;
+border-left-width:0px;
+}
+*/
+
+.result-zone2-img {
+	position:relative;
+	top:31px;
+}
+.loading-result-image {
+	position:relative;
+	top:25px;
+}
+
+
+
+.img-zone {
+	margin-left:10px;
+}
+
+
+
+.div-listing-arrow-table{
+	display:none;
+	width:100%;
+}
+
+.div-listing-arrow-cell{
+	text-align:center;
+	display: table-cell;
+	vertical-align:middle;
+	font-size:13px;
+	color:#ffffff;
+	padding:0px;
+	width:100%;
+	height:33px;
+	background-color:#cccccc;
+	background-image:url(bg_grey.png);
+
+	border-color:#555555;
+	border-width:1px;
+	border-style:none;
+	border-bottom-style:solid;
+}
+
+.div-listing-arrow-btn-page{
+	text-align:center;
+	vertical-align:middle;
+	display: table-cell;
+	width:33px;
+	height:100%;
+	cursor:pointer;cursor:hand;
+}
+
+.div-listing-arrow-btn-page-current{
+	text-align:center;
+	vertical-align:middle;
+	display: table-cell;
+	width:33px;
+	height:100%;
+	cursor:default;
+	background-image:url(bg_blue.png);
+}
+
+.div-listing-arrow-btn-page:hover {
+	background-image:url(bg_blue.png);
+}
+
+.div-listing-arrow-btn-empty{
+	display: table-cell;
+	height:100%;
+}
+
+.div-listing-arrow-btn-pagedown{
+	display: table-cell;
+	height:100%;
+	background-image:url(quick-previous.png);
+	background-repeat:no-repeat;
+	cursor:pointer;cursor:hand;
+}
+
+.div-listing-arrow-btn-pageup{
+	display: table-cell;
+	height:100%;
+	background-image:url(quick-next.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	cursor:pointer;cursor:hand;
+}
+
+ 	.backgroundGradient{
+	background-image:url(bg-mask.png);
+	background-repeat:repeat-x ;
+	}
+	   
+	.backgroundGradient00000{
+	background:-webkit-gradient(linear,center bottom,center top,from(#c0c0c0),to(#f0f0f0));
+	background:-moz-linear-gradient(top, #f0f0f0 0%,#c0c0c0  100%);"
+	}
+	
+	.htmlResult0
+	{
+		font-size:17px;
+		color:#333333;
+	}
+	.htmlResult1
+	{
+		font-size:14px;
+		color:#666666;
+	}
+	
+	.htmlTitleDetail0
+	{
+		font-size:20px;
+		color:#333333;
+	}
+	.htmlTitleDetail1
+	{
+		font-size:17px;
+		color:#666666;
+	}	
+	
+	.htmlDetailLine
+	{
+		line-height:25px;
+	}	
+	
+	.htmlDetailFieldTitle
+	{
+		font-size:16px;
+		font-weight:bold;
+		color:#333333;
+		text-align:left;
+		valign:top;
+	}
+	
+	.htmlDetailFieldValue
+	{
+		font-size:16px;
+		color:#333333;
+		text-align:left;
+	}	
+	
+	#cellItem0
+	{
+
+	}
+-->
