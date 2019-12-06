@@ -1,0 +1,7 @@
+{"values":["Worms Revolution","PC","","Steam","","","WORMS REVOLUTION - CUSTOMIZATION PACK <br>Stand out from the crowd in Worms Revolution with the Customisation Pack.Customisation Pack Includes Exclusive new theme - The Junkyard. 5 new lethal physics objects - Car Battery, Pliers, Toxic Canister, Hot Air Gun &#38; Anti-Freeze.<br><br>WORMS REVOLUTION: MEDIEVAL TALES DLC <br>Tony Bluster-Comb is Don Keystone&#8217;s spineless assistant and with his boss in hiding he needs your help to further document the life of Wormius-Fistycuffius. Now&#8217;s your chance to do so and become a legendry hero!<br><br>WORMS REVOLUTION - MARS PACK <br>Extend your single player experience as you take on more missions in this one giant leap for wormkind. Experience new missions, weapons, customization and more.Mars Pack includes:New Campaign Missions. 5 new single player campaign missions set in the new Mars theme.Mars Theme.<br><br>WORMS REVOLUTION: FUNFAIR DLC <br>Roll up, roll up. Enjoy all the fun of the fair with these 5 new puzzles and theme. Experience new puzzles, weapons, customization and more.Funfair Pack includes:New Puzzle Missions. 5 new single player puzzle missions set in the new Funfair theme.Funfair theme."],
+"id":789,
+"modif_id":2,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

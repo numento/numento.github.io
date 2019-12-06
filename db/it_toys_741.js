@@ -1,0 +1,7 @@
+{"values":["Wargame: Red Dragon","PC","","Steam","","","WARGAME: RED DRAGON - RUSSIAN ROULETTE [10VS10 MAP] <br>Wargame: Red Dragon is back with a free and brand new 10v10 map: Russian RouletteThe Russian Roulette map features an innovative circular level design that has armies intertwined at the start, rather than facing each other.<br><br>WARGAME RED DRAGON - NORSE DRAGONS <br>Norse Dragons is the third free DLC for Wargame: Red Dragon.Dedicated to the Scandinavian coalition, it features more than 60 new units for Sweden, Denmark &#38; Norway. Effectively propelling this coalition as well as the individual countries into the early 90&#8217;s era, it will bring them onto an...<br><br>WARGAME RED DRAGON - SECOND KOREAN WAR DLC <br>Second Korean War is Wargame: Red Dragon&#8217;s second free DLC.It features a new solo campaign, set in an uchronical 1992 where the previous year&#8217;s coup against Mikha&#239;l Gorbatchev has succeeded.<br><br>WARGAME RED DRAGON - THE MILLIONTH MILE <br>The Millionth Mile is the first free DLC for Wargame: Red Dragon.Focusing on the Eastern Bloc coalition, it will feature more than 60 new units for Poland, Czechoslovakia &#38; East-Germany, bringing them in the 90&#8217;s and on an equal footing with W:RD&#8217;s main nations."],
+"id":741,
+"modif_id":2,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}
