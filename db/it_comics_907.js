@@ -1,0 +1,7 @@
+{"values":["Lobo #001","","","","","","Not lent",""],
+"id":907,
+"modif_id":0,
+"image_size":[64,100],
+"images":[],
+"files":[]
+}
